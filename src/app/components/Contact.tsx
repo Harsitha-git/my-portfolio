@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
+
 
 export default function Contact() {
   return (
@@ -12,7 +12,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-white px-4 py-2 rounded-full shadow-md hover:shadow-lg transition-shadow"
           >
-            <FaGithub className="w-6 h-6" />
+            
             <span>GitHub</span>
           </a>
           <a
@@ -21,14 +21,14 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-white px-4 py-2 rounded-full shadow-md hover:shadow-lg transition-shadow"
           >
-            <FaLinkedin className="w-6 h-6" />
+            
             <span>LinkedIn</span>
           </a>
           <a
             href="mailto:harsitha.sonu@gmail.com"
             className="flex items-center gap-2 bg-white px-4 py-2 rounded-full shadow-md hover:shadow-lg transition-shadow"
           >
-            <FaEnvelope className="w-6 h-6" />
+            
             <span>Email</span>
           </a>
         </div>
