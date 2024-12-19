@@ -67,7 +67,7 @@ export default function AboutMe() {
           I strive to bridge the gap between technology and user needs.
           </p>
           <p className="text-lg">
-            Throughout my career, I've had the opportunity to work on diverse projects and collaborate with talented teams. Here's a glimpse into my professional journey:
+            Throughout my career, I have had the opportunity to work on diverse projects and collaborate with talented teams. Here's a glimpse into my professional journey:
           </p>
         </div>
         <div className="mb-4">

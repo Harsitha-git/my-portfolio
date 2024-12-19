@@ -20,7 +20,7 @@ export default function Hero() {
         <h1 className="text-4xl sm:text-6xl font-bold text-white mb-4 tracking-tight">
           <span className="block font-mono">Hello World,</span>
           <span className="block text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-400">
-            I'm Harsitha
+           
           </span>
         </h1>
         <p className="text-lg sm:text-xl text-gray-300 mb-8 font-mono">
